@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Samar2355
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 📫 How to reach me - you can reach me via my instagram "samarjoshi2000"
+- 📫 How to reach me -
+- Instagram- https://www.instagram.com/samarjoshi2000?igsh=cWxlcXQ4dnRtZjIy
 
 
 <!---
