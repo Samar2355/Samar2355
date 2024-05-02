@@ -2,8 +2,8 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
 - 📫 How to reach me -
-- Instagram- https://www.instagram.com/samarjoshi2000?igsh=cWxlcXQ4dnRtZjIy
-
+- Instagram - https://www.instagram.com/samarjoshi2000?igsh=cWxlcXQ4dnRtZjIy
+- LinkedIn - https://www.linkedin.com/in/samar-joshi-5546b9301
 
 <!---
 Samar2355/Samar2355 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
